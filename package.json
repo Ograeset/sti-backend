@@ -1,0 +1,19 @@
+{
+  "name": "sti-backend",
+  "version": "1.0.0",
+  "description": "JavaScript and web communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ograeset/sti-backend.git"
+  },
+  "author": "Nasir Tedros Rosén",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ograeset/sti-backend/issues"
+  },
+  "homepage": "https://github.com/Ograeset/sti-backend#readme"
+}
