@@ -2,8 +2,8 @@
   "name": "sti-backend",
   "description":"Javascript Backend",
   "repository":"https://github.com/Ograeset/sti-backend.git",
-  "logo":"https://cdn.rawgit.com/heruko/node-js-getting-started/main/public/node.svg",
-  "keywords": ["node", "express", "heruko"],
-  "image":"heruko/nodejs"
+  "logo":"https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image":"heroku/nodejs"
   
 }
