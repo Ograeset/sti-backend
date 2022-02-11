@@ -9,7 +9,7 @@ router.get('/', async (_req, res, _next) => {
           uptime: process.uptime(),
           message: 'OK',
           timestamp: Date.now()
-        }:
+        };
         try {
             res.send(healthcheck);
         } catch (e) {
