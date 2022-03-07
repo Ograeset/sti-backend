@@ -18,7 +18,20 @@ app.get("/football", (req ,res)=>{
 headers={"http_status":200, "cache-control": "no-cache"}
 body=
 [
+
   {
+    "position": "#",
+    "name": "Lag",
+    "m":"Spelade Matcher",
+    "v":"Vinster",
+    "o":"Oavgjorda",
+    "f":"Förluster",
+    "points":"Poäng"
+
+  },
+
+  {
+    "position":1,
     "name": "AIK",
     "m": 3,
     "v": 3,
@@ -27,6 +40,7 @@ body=
     "points" : 9
   },
   {
+    "position":2,
     "name":"Hammarby IF",
     "m": 3,
     "v": 1,
@@ -35,6 +49,7 @@ body=
     "points" : 6
   },
   {
+    "position":3,
     "name":"BP",
     "m": 3,
     "v": 1,
@@ -43,6 +58,7 @@ body=
     "points": 5
   },
   {  
+    "position": 4,
     "name" : "BK Häcken",
     "m": 3,
     "v": 0,
